@@ -1,2 +1,3 @@
 # hello-world
 My first repository for testing
+Only now I am adding some changes to the second branch and I am curious what the merge will look like...
